@@ -130,13 +130,11 @@ This repository is licensed under the **MIT License**. Feel free to use and cont
 
 ---
 
-## 📱 Connect with Me:
-
+📱 Connect with Me:
 Let’s connect and stay in touch! Here’s how you can reach out:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+LinkedIn: Abhisek Panda
+Email: abhisek2004panda@gmail.com
 
 ---
 
